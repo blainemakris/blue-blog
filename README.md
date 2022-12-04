@@ -1,1 +1,3 @@
 # blue-blog
+Hi.
+Yes.
