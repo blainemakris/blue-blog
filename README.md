@@ -1,1 +1,2 @@
 # blue-blog
+Hi.
