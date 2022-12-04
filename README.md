@@ -1,3 +1,2 @@
 # blue-blog
-Hi.
-Yes.
+Starting making the blog.
